@@ -1,0 +1,19 @@
+{
+  "name": "aoc-2025",
+  "module": "index.ts",
+  "devDependencies": {
+    "@types/bun": "^1.3.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "private": true,
+  "scripts": {
+    "day": "bun run day.ts",
+    "all": "bun run day.ts all"
+  },
+  "type": "module",
+  "dependencies": {
+    "heap-js": "^2.7.1"
+  }
+}
