@@ -1,6 +1,10 @@
 # Advent of Code copyright (https://adventofcode.com/about#legal)
 **/*.txt
 
+# AoC Tiles
+.aoc_tiles/*
+!.aoc_tiles/tiles/
+
 # dependencies (bun install)
 node_modules
 

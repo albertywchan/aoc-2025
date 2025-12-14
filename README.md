@@ -1,6 +1,47 @@
-# aoc-2025
+<!-- AOC TILES BEGIN -->
+<h1 align="center">
+  2025 - 24 ⭐ - TypeScript
+</h1>
+<a href="day_01/index.ts">
+  <img src=".aoc_tiles/tiles/2025/01.gif" width="203px">
+</a>
+<a href="day_02/index.ts">
+  <img src=".aoc_tiles/tiles/2025/02.gif" width="203px">
+</a>
+<a href="day_03/index.ts">
+  <img src=".aoc_tiles/tiles/2025/03.gif" width="203px">
+</a>
+<a href="day_04/index.ts">
+  <img src=".aoc_tiles/tiles/2025/04.gif" width="203px">
+</a>
+<a href="day_05/index.ts">
+  <img src=".aoc_tiles/tiles/2025/05.gif" width="203px">
+</a>
+<a href="day_06/index.ts">
+  <img src=".aoc_tiles/tiles/2025/06.gif" width="203px">
+</a>
+<a href="day_07/index.ts">
+  <img src=".aoc_tiles/tiles/2025/07.gif" width="203px">
+</a>
+<a href="day_08/index.ts">
+  <img src=".aoc_tiles/tiles/2025/08.gif" width="203px">
+</a>
+<a href="day_09/index.ts">
+  <img src=".aoc_tiles/tiles/2025/09.gif" width="203px">
+</a>
+<a href="day_10/index.ts">
+  <img src=".aoc_tiles/tiles/2025/10.gif" width="203px">
+</a>
+<a href="day_11/index.ts">
+  <img src=".aoc_tiles/tiles/2025/11.gif" width="203px">
+</a>
+<a href="day_12/index.ts">
+  <img src=".aoc_tiles/tiles/2025/12.gif" width="203px">
+</a>
+<!-- AOC TILES END -->
 
 To install dependencies:
+
 
 ```bash
 bun install
