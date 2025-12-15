@@ -40,6 +40,29 @@
 </a>
 <!-- AOC TILES END -->
 
+<h1 align="center">
+  Takeaways
+</h1>
+<ul>
+<li>Did not solve AoC daily unlike last year</li>
+<li>Completed all 12 days over the course of 4 days</li>
+<li>Spent a lot of time solving Day 1 Part 2 😅</li>
+<li>Needed hints to solve most of the days</li>
+<li>Had to read others' solutions to understand the greedy algorithm required for Day 3 Part 2</li>
+<li>Relearned greedy clustering algorithm for Day 8 (tbt to CPSC 320)</li>
+<li>Felt fairly confident implementing BFS, DFS, backtracking to solve a number of different problems</li>
+<li>Having previously solved "Merge Intervals" on LC was very helpful for Day 5</li>
+<li>Familiarized myself with JavaScript's array methods and all its other quirks (there's no built-in heap data structure?!?)</li>
+<li>Played around with a bunch of different packages e.g., jsts, GLPK (note: z3-solver does not work with Bun)</li>
+<li>Realized there's still a lot to learn about TypeScript despite using it on-the-job everyday</li>
+<li>Learned a number of different ways to write code that complies with Biome</li>
+<li>Enjoyed using Bun and leveraging all its features</li>
+<li>Proud that I was able to complete another AoC albeit shorter this year</li>
+<li>Will attempt to solve AoC again next year using a new language</li>
+</ul>
+
+---
+
 To install dependencies:
 
 ```bash
