@@ -9,8 +9,9 @@
   },
   "private": true,
   "scripts": {
-    "day": "bun run day.ts",
-    "all": "bun run day.ts all"
+    "create": "bun run scripts/create.ts",
+    "day": "bun run scripts/day.ts",
+    "all": "bun run scripts/day.ts all"
   },
   "type": "module",
   "dependencies": {
